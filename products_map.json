@@ -1,0 +1,47 @@
+{
+  "PROD-001": {
+    "name": "حقيبة تنظيم مستحضرات التجميل الذكية",
+    "category": "Cosmetics & Beauty",
+    "buy_price": 8.5,
+    "sell_price": 29.99,
+    "margin": 21.49,
+    "supplier": "CJ Dropshipping",
+    "supplier_id": "Supplier_CJ_9921"
+  },
+  "PROD-002": {
+    "name": "موزع الصابون الأوتوماتيكي بالاستشعار",
+    "category": "Home & Smart Gadgets",
+    "buy_price": 6.2,
+    "sell_price": 24.99,
+    "margin": 18.79,
+    "supplier": "AliExpress VIP",
+    "supplier_id": "Ali_Supplier_8832"
+  },
+  "PROD-003": {
+    "name": "مصباح مكتب مضاد للجاذبية (LED)",
+    "category": "Home Decor / Tech",
+    "buy_price": 14.0,
+    "sell_price": 44.99,
+    "margin": 30.99,
+    "supplier": "CJ Dropshipping",
+    "supplier_id": "Supplier_CJ_1044"
+  },
+  "PROD-004": {
+    "name": "فرشاة تنظيف الوجه بالاهتزاز الصوتي",
+    "category": "Personal Care",
+    "buy_price": 4.1,
+    "sell_price": 19.99,
+    "margin": 15.89,
+    "supplier": "Trendsi / AliExpress",
+    "supplier_id": "Ali_Supplier_5521"
+  },
+  "PROD-005": {
+    "name": "حامل الهاتف الذكي مع تتبع الحركة للسيارة",
+    "category": "Car Accessories",
+    "buy_price": 9.8,
+    "sell_price": 34.99,
+    "margin": 25.19,
+    "supplier": "CJ Dropshipping",
+    "supplier_id": "Supplier_CJ_3310"
+  }
+}
